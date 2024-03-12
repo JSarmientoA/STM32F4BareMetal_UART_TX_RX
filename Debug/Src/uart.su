@@ -1,0 +1,6 @@
+../Src/uart.c:24:6:uart2_rx_tx_init	8	static
+../Src/uart.c:81:5:__io_putchar	16	static
+../Src/uart.c:87:6:uart2_write	16	static
+../Src/uart.c:103:6:uart2_read	4	static
+../Src/uart.c:114:13:uart_set_bautrate	24	static
+../Src/uart.c:119:17:compute_uart_bd	16	static
